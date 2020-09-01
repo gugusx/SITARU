@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SiTaRu</string>
+    <string name="access_token" translatable="false">sk.eyJ1IjoiaHh0ZXJpYSIsImEiOiJjazBrbWtiNW4wbGJiM2duc3lqMjNpenY1In0.bb-xZZWVgb0ZqAWFiGzWXg</string>
+</resources>
